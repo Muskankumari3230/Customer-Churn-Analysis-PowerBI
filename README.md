@@ -1,3 +1,6 @@
+📊 Dashboard Preview
+<img width="1297" height="723" alt="image" src="https://github.com/user-attachments/assets/1149b152-36ad-425e-a091-1abf44185598" />
+
 # Customer Churn Analysis Dashboard (Power BI)
 
 ## 📊 Project Overview
@@ -19,6 +22,7 @@ patterns and key factors contributing to customer attrition.
 - Power BI Desktop
 - DAX for calculated measures
 - Data visualization & dashboard design
+Added dashboard screenshot
 
 ## 📌 Business Impact
 This dashboard helps businesses identify high-risk customer segments
